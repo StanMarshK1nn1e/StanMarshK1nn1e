@@ -85,3 +85,11 @@ $\color{#571916}{×- ~ I'm ~ a ~ Biology/Chemistry ~ geek}$
 
 $\color{#FFFFFF}{Just ~ so ~ you ~ know, ~ I ~ do ~ enjoy ~ Biology ~ and ~ Chemistry,}$
 $\color{#FFFFFF}{even ~ though ~ I ~ get ~ spooked ~ at ~ some ~ of ~ the ~ materials.}$
+$\color{#FFFFFF}{I ~ oftenly ~ think ~ Biology ~ and ~ Chemistry ~ are ~ complicated,}$
+$\color{#FFFFFF}{but ~ also ~ interesting ~ and ~ suits ~ my interests.}$
+$\color{#FFFFFF}{I ~ enjoy ~ searching ~ up ~ on ~ the ~ internet ~ about ~ Biology,}$
+$\color{#FFFFFF}{mostly ~ about ~ wildlife ~ or ~ maybe ~ understanding ~ Physiscs ~ in}$
+$\color{#FFFFFF}{weird ~ ways, ~ like ~ how ~ bl00d ~ gets ~ oxidized ~ and ~ turn}$
+$\color{#FFFFFF}{to ~ a ~ rusty, ~ orange ~ brown. (If ~ some ~ of ~ you ~ are uncomfortable}$
+$\color{#FFFFFF}{with ~ this ~ topic, ~ please ~ just ~ read ~ at ~ your ~ own ~ percautions.}$
+ 
